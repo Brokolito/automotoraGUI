@@ -1,0 +1,4 @@
+
+Peruviam,Nissan,Verde,1987,2000000,189765
+Peruviam,Nissan,Verde,1987,2000000,189765
+Auto bacan,Nissan,Rojo,2002,9000000,299998
